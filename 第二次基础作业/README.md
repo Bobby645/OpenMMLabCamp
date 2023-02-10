@@ -1,4 +1,9 @@
 # MMDetection
+重新用超算平台配置了一次环境，终于成功了：
+anaconda/2022.10
+cuda/11.6
+gcc/9.3
+torch =1.31.1
 
 ## 模型性能
 ![a363229160433291facd762274bbd00](https://user-images.githubusercontent.com/84892024/218004768-b3f612af-c2ac-4d38-ab1a-3a17578ab7bc.png)
