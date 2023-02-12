@@ -29,10 +29,15 @@ mask:![VUHSK1352_67MASK](https://user-images.githubusercontent.com/84892024/2182
 
 代码测试[云GPU环境，北京超算]：sys.platform: linux
 GPU RTX 3090、CUDA v11.6 、GCC:9.3.0
+
 PyTorch: 1.13.1
+
 MMEngine: 0.5.0
+
 mmcv：2.0.0rc4
+
 mmdet ：3.0.0rc5
+
 mmsegmentation：1.0.0rc5
 
 ## 知乎笔记链接
